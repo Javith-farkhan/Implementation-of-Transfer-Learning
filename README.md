@@ -133,13 +133,15 @@ Training Loss, Validation Loss Vs Iteration             | Accuracy, Validation A
 
 
 
-![Uploading 4.1.png…]()
+![4 1](https://github.com/Javith-farkhan/Implementation-of-Transfer-Learning/assets/94296805/c8dad26a-034d-46c8-ad39-c154166a3ed0)
+
 
 
 
 ### Confusion Matrix & Classification Report:
 
-![Uploading 4.2.png…]()
+![4 2](https://github.com/Javith-farkhan/Implementation-of-Transfer-Learning/assets/94296805/9de244bd-c77a-44cf-917e-f43eddf7cf1a)
+
 
 
 
