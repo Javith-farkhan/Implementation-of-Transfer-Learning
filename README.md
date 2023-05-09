@@ -133,14 +133,14 @@ Training Loss, Validation Loss Vs Iteration             | Accuracy, Validation A
 
 
 
-![image](https://user-images.githubusercontent.com/94284428/236884070-33cd758b-efac-43c4-abe4-2cec76b6f5c5.png)
+![Uploading 4.1.png…]()
 
-![image](https://user-images.githubusercontent.com/94284428/236884116-aa05379b-bab1-4fe1-b330-5b1d2ce70230.png)
 
 
 ### Confusion Matrix & Classification Report:
 
-![image](https://user-images.githubusercontent.com/94284428/236884223-cd53445e-aa38-487b-b6d6-a68c58293c3e.png)
+![Uploading 4.2.png…]()
+
 
 
 ## RESULT
