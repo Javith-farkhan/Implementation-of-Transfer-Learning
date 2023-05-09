@@ -8,7 +8,8 @@ The dataset is divided into five training batches and one test batch, each with 
 
 Here are the classes in the dataset, as well as 10 random images from each:
 
-<img width='500' src='https://user-images.githubusercontent.com/93427237/232681405-cc61aa61-1ee8-4303-862d-e90ea1d37f13.png'>
+![dataset](https://github.com/Javith-farkhan/Implementation-of-Transfer-Learning/assets/94296805/b70378fc-224a-485c-bb5e-addc9494753e)
+
   
 VGG19 is a variant of the VGG model which in short consists of 19 layers (16 convolution layers, 3 Fully connected layer, 5 MaxPool layers and 1 SoftMax layer).
 
