@@ -107,15 +107,18 @@ print(classification_report(y_test,x_test_predictions))
 ### Training Loss, Validation Loss Vs Iteration Plot:
 ![DL4 1](https://github.com/Javith-farkhan/Implementation-of-Transfer-Learning/assets/94296805/b864a9a4-b1e6-4687-9de6-5a23d0c665cc)
 
-</br>
-![DL4 2](https://github.com/Javith-farkhan/Implementation-of-Transfer-Learning/assets/94296805/b3753360-b7eb-4687-880e-f07eb95ef16e)
 
-</br>
+
+![DL4 2](https://github.com/Javith-farkhan/Implementation-of-Transfer-Learning/assets/94296805/4ecc4123-42e2-4448-93e1-9c7a46180e84)
+
+
+
+
 ### Classification Report:
 
+![Uploading DL4.png…]()
 
 
-</br>
 
 ### Confusion Matrix:
 ![DL4 4](https://github.com/Javith-farkhan/Implementation-of-Transfer-Learning/assets/94296805/43ed19e6-dc42-40ae-bc62-af6624e559a7)
