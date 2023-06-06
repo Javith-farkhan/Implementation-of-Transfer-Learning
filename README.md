@@ -86,7 +86,7 @@ model.compile(optimizer=Adam(learning_rate=0.001), loss='sparse_categorical_cros
 
 learning_rate_reduction = ReduceLROnPlateau(monitor='val_accuracy', patience=3, verbose=1, factor=0.5, min_lr=0.00001)
                                          
-model.fit(x_train, y_train, batch_size=64, epochs=10, validation_data=(x_test, y_test), callbacks=[learning_rate_reduction])
+model.fit(x_train, y_train, batch_size=64, epochs=30, validation_data=(x_test, y_test), callbacks=[learning_rate_reduction])
 
 metrics = pd.DataFrame(model.history.history)
 
