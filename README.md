@@ -34,8 +34,8 @@ Compile and fit the model
 Predict for custom inputs using this model
 
 ## PROGRAM:
-NAME : BHUVANESHWAR V </BR>
-REG NO :212221240009
+NAME : Javith farkhan S </BR>
+REG NO :212221240017
 ```python
 import pandas as pd
 import numpy as np
