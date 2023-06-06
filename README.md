@@ -105,16 +105,20 @@ print(classification_report(y_test,x_test_predictions))
 
 ## OUTPUT:
 ### Training Loss, Validation Loss Vs Iteration Plot:
-![image](https://github.com/SanjayKumarAIML/Implementation-of-Transfer-Learning/assets/93427246/ed5fa7f9-82b3-4a96-974d-dbedebf48b0b)
+![DL4 1](https://github.com/Javith-farkhan/Implementation-of-Transfer-Learning/assets/94296805/b864a9a4-b1e6-4687-9de6-5a23d0c665cc)
+
 </br>
-![image](https://github.com/SanjayKumarAIML/Implementation-of-Transfer-Learning/assets/93427246/f9607dbb-83df-4799-87af-0ed45b62e551)
+![DL4 2](https://github.com/Javith-farkhan/Implementation-of-Transfer-Learning/assets/94296805/b3753360-b7eb-4687-880e-f07eb95ef16e)
+
 </br>
 ### Classification Report:
-![image](https://github.com/SanjayKumarAIML/Implementation-of-Transfer-Learning/assets/93427246/16307c30-83c9-4306-bbc9-e29a54240ed9)
+![Uploading DL4.3.png…]()
+
 </br>
 
 ### Confusion Matrix:
-![image](https://github.com/SanjayKumarAIML/Implementation-of-Transfer-Learning/assets/93427246/3dde1f3e-4910-4f62-a2e5-8bef9f8bd581)
+![DL4 4](https://github.com/Javith-farkhan/Implementation-of-Transfer-Learning/assets/94296805/43ed19e6-dc42-40ae-bc62-af6624e559a7)
+
 
 </br>
 
