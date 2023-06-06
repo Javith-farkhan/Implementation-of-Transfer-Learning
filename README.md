@@ -116,7 +116,7 @@ print(classification_report(y_test,x_test_predictions))
 
 ### Classification Report:
 
-![Uploading DL4.png…]()
+![image](https://github.com/SanjayKumarAIML/Implementation-of-Transfer-Learning/assets/93427246/16307c30-83c9-4306-bbc9-e29a54240ed9)
 
 
 
