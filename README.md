@@ -82,20 +82,24 @@ Training Loss, Validation Loss Vs Iteration
 
 
 
-![1](https://github.com/Venkatigi/Implementation-of-Transfer-Learning/assets/94154252/f13afc27-551a-4048-ac2a-03860b85de5e)
+![EXP 4 1](https://github.com/Javith-farkhan/Implementation-of-Transfer-Learning/assets/94296805/4f3b890a-0f0c-4fdf-92fa-fc6a5d511014)
+
 
 ### Accuracy, Validation Accuracy Vs Iteration           
                
 
-![2](https://github.com/Venkatigi/Implementation-of-Transfer-Learning/assets/94154252/16a25f9d-4a36-4275-9532-0d391937c803)
+![EXP 4 2](https://github.com/Javith-farkhan/Implementation-of-Transfer-Learning/assets/94296805/90e0f069-713b-43c3-a0d9-493a2fdfeb06)
+
 
 ### Classification Report:
 
-![4](https://github.com/Venkatigi/Implementation-of-Transfer-Learning/assets/94154252/8d5036ac-3064-4df2-8298-88e9899954cd)
+![EXP 4 4](https://github.com/Javith-farkhan/Implementation-of-Transfer-Learning/assets/94296805/b2be19ef-4c83-4ab1-85a1-0d0c13f6d401)
+
 
 ### Confusion Matrix:
 
-![3](https://github.com/Venkatigi/Implementation-of-Transfer-Learning/assets/94154252/9a1ddaef-45dd-4332-91cf-61dacf781516)
+![EXP 4 3](https://github.com/Javith-farkhan/Implementation-of-Transfer-Learning/assets/94296805/d212c04a-78b1-4a38-8cf4-bf9bdcbeebc4)
+
 
 ## Conculsion:
 * We got an Accuracy of 60% with this model.There could be several reasons for not achieving higher accuracy. Here are a few possible explanations:
