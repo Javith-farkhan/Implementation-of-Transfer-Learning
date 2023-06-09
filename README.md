@@ -65,6 +65,7 @@ model.compile (optimizer = Adam (learning_rate=0.001),
               )
 
 learning_rate_reduction = ReduceLROnPlateau (monitor = 'val_accuracy')
+model.fit(x_train, y_train, batch_size=64, epochs=15, validation_data=(x_test, y_test), callbacks=[learning_rate_reduction])
 metrics = pd.DataFrame (model.history.history)
 metrics[['loss','val_loss']].plot()
 metrics[['accuracy','val_accuracy']].plot()
